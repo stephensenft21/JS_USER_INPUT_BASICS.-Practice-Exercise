@@ -1,0 +1,15 @@
+ {
+     "addresses": [{
+             name: "Jisie",
+             address: "5918 Brook Bend Dr"
+         },
+         {
+             name: "Kristen",
+             address: "452 Moss Trail"
+         },
+         {
+             name: "Steve",
+             address: "500 Interstate Blvd S"
+         }
+     ]
+ }
